@@ -1,5 +1,1 @@
-Learning git.
-特征。
-新的特征。
-
-分支管理
+Get the journal citation of FSCE from Web of science
